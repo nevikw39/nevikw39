@@ -33,29 +33,18 @@
 🈶些拉麵來不及捕捉牠們的遺容就進肚子惹。
 
 - 豚骨拉麵 博多風龍
-    + 去日本吃的拉麵中🈶被 Google Maps Timeline 記起來的
 - 麵屋武藏
-    + 北車本店吃過兩次
-        1. 全國賽上台北時與國中同學吃的是味玉雞白湯
-        2. 應該是 YTP 後與表哥約，這次換味玉武藏
 - 荷麵亭
-    + 除夕與國中同學約，士林捷運站附近其他店如隱家、道樂都休息，幸好荷麵亭中午還🈶營業
 - 山嵐拉麵
-    + 白湯、海湯跟赤湯都吃過，只是一張照片都沒留
-    + 臺中雖然稱一中店，但從學校要走十分鐘才會到
-    + 高二入營考的時候🈶跟兩位國中同學去古亭本店
-- [麵屋秋鳴](/ramen/chiuming/)
-- [🈶️囍拉麵](/ramen/yoshi/)
+- [麵屋秋鳴](https://nevikw39.cf/ramen/chiuming/)
+- [🈶️囍拉麵](https://nevikw39.cf/ramen/yoshi/)
 - 小川拉麵
-    + 比完 `NPSC` 之後和兩位國中同學去吃的，叉燒只🈶一塊比較🉑惜
 - 豚箱拉麵
-    + 一中附近、中友對面巷子的小店
 - 海拉麵
-    + 高三入營考跟兩位國中同學去吃的，叉燒🈶金屬光澤
-- [大角拉麵](/ramen/dajiao/)
-- [山下公園](/ramen/yamashita/)
-- [麵本初](/ramen/fishramen/)
-- [七面鳥](/ramen/shichimenchou/)
+- [大角拉麵](https://nevikw39.cf/ramen/dajiao/)
+- [山下公園](https://nevikw39.cf/ramen/yamashita/)
+- [麵本初](https://nevikw39.cf/ramen/fishramen/)
+- [七面鳥](https://nevikw39.cf/ramen/shichimenchou/)
 
 至於花🈷️嵐、一蘭等等就算惹ＸＤ。
 
@@ -64,7 +53,7 @@
 - 國小二年級教師節藝文比賽優選（是畫畫喔）
 - 國小四、五、六年級多語文學藝競賽國語文字音字形組優等
 - 國中二、三年級國家地理知識大競賽（中國地理學會，非 NatGeo）初賽優勝
-- 高中一年級上學期公民科全年級第四名，高中必修公民全年級 \\(4\%\\)
+- 高中一年級上學期公民科全年級第四名，高中必修公民全年級 4%
 - 高中一年級下學期校本課程公民科專題發表會優異
 
 ## 🎵 樂團
@@ -78,18 +67,3 @@
 - Linkin Park
 
 And so forth...
-
-## 🔗 連結
-
-以下是一些友站 ~~（裝熟）~~ 的連結，歡迎在底下的 Disqus 留言🍌流🍌流，我會在附上喔，也歡迎大家分享我的 Blog。
-
-- [Bentley](https://bentley.taipei/)
-- [念誠](https://ncchen.cf/)
-- [櫛風](https://shaneliu.studio-alvitr.com/)
-- [雞塊](https://www.jikuai.codes/)
-- [Aann Lin](https://hakkaz.github.io/)
-- [靚](https://ching367436.github.io/)
-- [CSC](https://chensc0392.github.io/)
-- [Howard](https://howard-60308.github.io/)（我是偷看惹原始碼才懂 \\( \log 100 \\) 這個提示ＸＤ）
-
-et cetera...
