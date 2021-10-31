@@ -1,4 +1,4 @@
-各位好，我是來自清大資工的 `nevikw39` **牜攵犬羊**！！以下是關於我的一點自我介紹：
+各位好，我是來自清大資工的 `nevikw39` **牜攵犬羊**，歡迎來到 _「如詩的韻律」_！！平時的休閒活動當屬🏓打桌球，另外有一個待發掘的興趣是📷攝影，目前手上有台家裡的舊單眼 Nikon D7000. 以下是關於我的一點自我介紹：
 
 ## 🖥 資訊
 
@@ -14,9 +14,8 @@
 - [大角拉麵](https://nevikw39.cf/ramen/dajiao/)
 - [山下公園](https://nevikw39.cf/ramen/yamashita/)
 - [七面鳥](https://nevikw39.cf/ramen/shichimenchou/)
-- [牛庵](/ramen/moann/)
-- [麵屋零](/ramen/zero/)
-- [吞山郎](/ramen/tunshanlang/)
+- [牛庵](https://nevikw39.cf/ramen/moann/)
+- [吞山郎](https://nevikw39.cf/ramen/tunshanlang/)
 
 ## 🏆 ~~奇怪的~~ 榮譽
 
