@@ -1,6 +1,6 @@
 Hello GitHub!
 
-I'm `nevikw39` majoring _Computer Science_ at **National Tsing Hua University** (Taiwan). One of my extracurricular activities is playing table tennis 🏓. Moreover, there's a DLSR, _Nikon D7000_, left by my grandfather at home so I'd like to cultivate an interest in photography 📷.
+I'm `nevikw39`, a _Computer Science_ major at **National Tsing Hua University** (Taiwan). Problem solving is my lifelong delight. My research interests also span High-Performance Computing, Deep Learning and so forth. One of my extracurricular activities is playing table tennis 🏓. Moreover, there's a DLSR, _Nikon D7000_, left by my grandfather at home so I'd like to cultivate an interest in photography 📷.
 
 > For more details, please refer to my [blog](https://nevikw39.cf/)!!
 
@@ -8,15 +8,19 @@ I'm `nevikw39` majoring _Computer Science_ at **National Tsing Hua University** 
 
 ### Competitive Programming
 
+- 112 學年度全國大專院校軟體設計競賽決賽 `(NCPC, National Collegiate Programming Contest) final`, _DebugCat Capoo_, **4th Award (14th)**
 - [2022 ICPC Asia Taoyuan Regional Contest, Team _DebugCat Capoo_,  **Bronze Award🥉**](https://nevikw39.cf/posts/icpc_taoyuan_2022/)
 - [2022 ICPC Asia Taiwan Online Programming Contest _(TOPC)_, Team _DebugCat Capoo_,  **30th**](https:/nevikw39.cf/posts/topc_2022/)
-- [111 學年度全國大專院校軟體設計競賽 `(NCPC, National Collegiate Programming Contest)`, _DebugCat Capoo_, **23rd**](https://nevikw39.cf/posts/ncpc_final_111/)
+- [111 學年度全國大專院校軟體設計競賽決賽 `(NCPC, National Collegiate Programming Contest) final`, _DebugCat Capoo_, **Honorable Mention (23rd)**](https://nevikw39.cf/posts/ncpc_final_111/)
 - [2021 ICPC Asia Taipei Regional Contest, Team _Dkjistra_,  **Silver Award🥈**](https://nevikw39.cf/posts/icpc_taipei_2021/)
 - [2021 ICPC Asia Taiwan Online Programming Contest _(TOPC)_, Team _Dkjistra_,  **29th**](https:/nevikw39.cf/posts/topc_2021/)
-- [110 學年度全國大專院校軟體設計競賽 `(NCPC, National Collegiate Programming Contest)`, _Dkjistra_, **28th**](https://nevikw39.cf/posts/ncpc_final_110/)
+- [110 學年度全國大專院校軟體設計競賽決賽 `(NCPC, National Collegiate Programming Contest) final`, _Dkjistra_, **Honorable Mention (28th)**](https://nevikw39.cf/posts/ncpc_final_110/)
 
 ### High-Performance Computing
 
+- 2023 ISC Student Cluster Competition
+  - Member of team NTHU
+  - 2nd Place🥈
 - 2022 APAC HPC-AI Competition
   - Leader of team NTHU-CM
   - 1st Place🥇
